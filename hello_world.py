@@ -1,4 +1,5 @@
 def hello_world():
+    """Prints a hello world message"""
     print("Hello World from the Main Project!")
 
 def main():
