@@ -1,11 +1,8 @@
 from subtrees.hello_world import hello_world, hello_world_string
 
-# def hello_world():
-#     """Prints a hello world message"""
-#     print("Hello World from the Main Project!")
-
 def main():
     hello_world()
+    print(hello_world_string())
 
 if __name__ == "__main__":
     main()
